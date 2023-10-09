@@ -61,8 +61,9 @@
     <br>
      <br>
      <br>
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev25082&theme=react" />
+
  <br>
+
      <br>
     
   <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api?username=dev25082&layout=compact&theme=react" />
