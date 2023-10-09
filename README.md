@@ -59,9 +59,7 @@
   <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev25082&show_icons=true&&theme=react"
   <p align="center">
     <br>
-     <br>
-     <br>
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=dev25082&theme=react" />
+     
  <br>
      <br>
     
